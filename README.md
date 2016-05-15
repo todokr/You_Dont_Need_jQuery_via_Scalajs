@@ -20,15 +20,6 @@ Original repo via Vanilla JS: https://github.com/oneuijs/You-Dont-Need-jQuery
 import scala.scalajs.js.JSApp
 import org.scalajs.dom._
 import org.scalajs.jquery.{ jQuery => $ }
-
-object Script extends JSApp {
-
-  @JSExport
-  def main(): Unit = {
-    // code here...
-  }
-}
-
 ```
 
 #Query Selector
