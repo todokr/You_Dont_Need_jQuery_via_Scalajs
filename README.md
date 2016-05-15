@@ -23,10 +23,39 @@ import org.scalajs.jquery.{ jQuery => $ }
 ```
 
 #Query Selector
+
+1.0 Query by selector
 ```scala
 // jQuery
 $("p")
 
 // Native
 document.querySelectorAll("p")
+```
+
+1.1 Query by class 
+```scala
+// jQuery
+$(".class")
+
+// Native
+document.querySelectorAll(".class")
+```
+
+1.2 Query by id
+```scala
+// jQuery
+$("#id")
+
+// Native
+document.querySelectorAll("#id")
+```
+
+1.3 Query by attribute
+```scala
+// jQuery
+$("a[target=_blank]")
+
+// Native
+document.querySelectorAll("a[target=_blank]")
 ```
