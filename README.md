@@ -1,4 +1,4 @@
-# You_Dont_Need_jQuery_via_Scalajs
+# You Don't Need jQuery via Scalajs
 Original repo via Vanilla JS: https://github.com/oneuijs/You-Dont-Need-jQuery
 
 ## Table of Contents
